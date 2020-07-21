@@ -1,4 +1,4 @@
-//package machine;
+package machine;
 import java.util.Scanner;
 
 enum State{
