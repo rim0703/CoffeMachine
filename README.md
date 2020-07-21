@@ -12,4 +12,4 @@ This project allows you to get a taste of Java. Practice working with classes, c
 
 *Reference
 -------------
-JetBrain Academy
+JetBrains Academy
