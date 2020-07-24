@@ -2,7 +2,7 @@ package machine;
 import java.util.Scanner;
 
 enum State{
-    WAIT, //waiting for user input
+    WAIT, //waiting for the user input
     BUY, FILL, TAKE, REMAINING, EXIT,  //action parts
     ESPRESSO, LATTE, CAPPUCCINO, //menu
     ADD_WATER, ADD_MILK, ADD_BEANS, ADD_CUPS, MONEY //add resources
