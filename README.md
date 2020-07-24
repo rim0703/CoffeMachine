@@ -1,4 +1,4 @@
-JetBrains Academy Java prjects
+JetBrains Academy Java projects
 =============
  
  - 20200724 Upload "Tic-Tac-Toe" project
