@@ -1,0 +1,46 @@
+Input command: start hard user
+Making move level "hard"
+---------
+|       |
+| X     |
+|       |
+---------
+Enter the coordinates: 2 2
+---------
+|       |
+| X O   |
+|       |
+---------
+Making move level "hard"
+---------
+|   X   |
+| X O   |
+|       |
+---------
+Enter the coordinates: 2 1
+---------
+|   X   |
+| X O   |
+|   O   |
+---------
+Making move level "hard"
+---------
+| X X   |
+| X O   |
+|   O   |
+---------
+Enter the coordinates: 1 1
+---------
+| X X   |
+| X O   |
+| O O   |
+---------
+Making move level "hard"
+---------
+| X X X |
+| X O   |
+| O O   |
+---------
+X wins
+
+Input command: exit
