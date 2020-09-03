@@ -13,7 +13,7 @@ When the program runs, you should input three lines:
     2. The source number;
     3. The target radix;
 
-To get more details, you can get the description file here (Stage4).
+To get more details, you can get the [description file here (Stage4)](https://github.com/rim0703/JetBrains-Academy-Projects/blob/master/Numeral%20System%20Converter/Stages/Numeral%20System%20Converter%20%E2%80%93%20Stage4.pdf).
 
 
 Learning outcomes
